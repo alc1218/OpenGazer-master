@@ -1,0 +1,6 @@
+outputs/*.txt_
+outputs/*.txt
+opengazer
+moc_*.cpp
+*.o
+*.gch
